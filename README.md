@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To install the node mmodules run:
 
-### `npm install -g react-native-cli`
+### `npm install`
 
 In the project directory, you can run:
 

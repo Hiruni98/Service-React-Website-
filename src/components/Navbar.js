@@ -30,7 +30,7 @@ useEffect(() => {
         <>
         <nav className="navbar">
             <div className='navbar-container'>
-                <Link path='/' className='navbar-logo' onClick=
+                <Link to='/home' className='navbar-logo' onClick=
                 {closeMobileMenu}>
                     SERVICEPRO <i className='fab fa-typo3'/>
                 </Link>
